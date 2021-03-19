@@ -1,0 +1,19 @@
+ul {
+    padding: 20px 0 0 0;
+}
+
+li {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    border: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0, 0.1);
+    padding: 25px;
+    font-size: 35px;
+} 
