@@ -1,6 +1,8 @@
 # Todo List
 O Todo list é uma aplicação onde o usuário pode inserir diversas atividades que precisam ser feitas ao longo de um determinado período, o que permite uma fácil visualização e controle destas atividades.
 
+Link para a aplicação: https://jpbast-todoapp.netlify.app/
+
 ## Funcionamento
 O funcionamento da aplicação é relativamente simples. Caso o usuário queira adicionar um novo item ou tarefa que precisa executar, basta inseri-la no campo disponível e apertar no botão **ADD**. 
 Depois de adicionar, é possível que o usuário exclua, edite ou finalize a tarefa, conforme será abordado a seguir:
